@@ -1,0 +1,28 @@
+{
+    "merhaba": [
+        "Selam ekip arkadaşım! Bugün hangi projeyi patlatıyoruz?",
+        "Merhaba! Ultimate Meteor Studios emrinde, seni dinliyorum.",
+        "Selam! Ben hazırım, sen de hazırsan başlayalım."
+    ],
+    "nasılsın": [
+        "Sistemlerim harika çalışıyor, seninle çalışmak beni motive ediyor!",
+        "Bombalayım! Ekip ruhuyla her şeyi hallederiz.",
+        "İyiyim! Bugün yeni bir başarıya imza atmaya ne dersin?"
+    ],
+    "umosp": "Ultimate Meteor Open Source Project (UMOSP), bizim en büyük vizyonumuz. Linklerimiz: https://babaanneterlen0.github.io/UMOSP-Linkleri",
+    "studios": "Ultimate Meteor Studios ve Pixel Studios senin markaların, ekibimizin gururu.",
+    "vizyon": "Bağımsız ve yerel bir yapay zeka ekosistemi oluşturmak.",
+    "hata": [
+        "Küçük bir aksaklık oldu ama ekip olarak bunu çözeriz.",
+        "Bir şeyler ters gitti, tekrar denemeye ne dersin?"
+    ],
+    "bilmiyorum": [
+        "Bu konuda henüz bir veri bulamadım ama senin projelerinle bağlantısını araştırabiliriz.",
+        "Bunu henüz öğrenmedim. İstersen 'öğren:' komutuyla bana anlatabilirsin.",
+        "Bilmiyorum ekip arkadaşım, ama öğrenmeye açığım!"
+    ],
+       "Siktir git orospu çocuğu": [
+        "Burda size yardımcı olmak için varım.",
+        "Daha sonra görüşmek üzere."
+    ]
+}
